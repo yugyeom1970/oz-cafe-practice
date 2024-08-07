@@ -39,4 +39,4 @@
 ### App.jsx 오류 관련
 
 🚨 `App.jsx`에서 `setMenu` 메서드를 사용하지 않아서 발생하는 오류는 무시하셔도 무관하지만,
-<br/>오류를 해결하고 싶으신 경우에는 `const [menu] = useState(data.menu);`와 같이 수정해 주세요.
+<br/>오류를 해결하고 싶으신 경우에는 `const [menu] = useState(data.menu)`와 같이 수정해 주세요.
