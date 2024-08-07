@@ -36,6 +36,16 @@
 
   <br />
 
+### 심화 요구 사항
+
+1. addToCart (장바구니 음료 추가 기능)
+   - `cartContext.jsx` 내부에서 구현하여 불러오기
+
+- removeFromCart (장바구니 음료 제거 기능)
+  - `cartContext.jsx` 내부에서 구현하여 불러오기
+
+<br/>
+
 ### App.jsx 오류 관련
 
 🚨 `App.jsx`에서 `setMenu` 메서드를 사용하지 않아서 발생하는 오류는 무시하셔도 무관하지만,
